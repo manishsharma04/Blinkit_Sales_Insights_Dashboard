@@ -57,7 +57,7 @@ The analysis demonstrates key **Power BI features** and advanced **data visualiz
 ![Dashboard Overview](Screenshot/1.png "Dashboard Overview")
 
 ### **Sales Trends Visualization**
-![Sales Trends](Screenshot/2(1).png "Sales Trends Visualization")
+![Sales Trends](Screenshot/2 (1).png "Sales Trends Visualization")
 
 ### **Customer Insights**
 ![ Insights](Screenshot/3.png "Customer Insights")
@@ -69,5 +69,9 @@ The analysis demonstrates key **Power BI features** and advanced **data visualiz
 This dashboard highlights the power of **data-driven decision-making** by providing clear, actionable insights into grocery sales and customer behavior. It's a step forward in optimizing business strategies using data visualization.
 
 ---
+### **Contact Information**
 
-Feel free to adapt it further as per your needs!
+Feel free to connect or reach out for any queries or collaborations:
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/manish-sharma-b86aa1195)  
+- **Email**: [yourname@example.com](mailto:manish.kota2000.com)
