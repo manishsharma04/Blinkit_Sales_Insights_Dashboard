@@ -54,10 +54,10 @@ The analysis demonstrates key **Power BI features** and advanced **data visualiz
 
 
 ### **Overall Dashboard**
-![Dashboard Overview](Screenshot/1.png "Dashboard Overview")
+![Dashboard Overview](Screenshot/dashbord.png "Dashboard Overview")
 
 ### **Sales Trends Visualization**
-![Sales Trends](Screenshot/2 (1).png "Sales Trends Visualization")
+![Sales Trends](Screenshot/page2.png "Sales Trends Visualization")
 
 ### **Customer Insights**
 ![ Insights](Screenshot/3.png "Customer Insights")
@@ -73,5 +73,5 @@ This dashboard highlights the power of **data-driven decision-making** by provid
 
 Feel free to connect or reach out for any queries or collaborations:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/manish-sharma-b86aa1195)  
-- **Email**: [yourname@example.com](mailto:manish.kota2000.com)
+- **LinkedIn**: (https://www.linkedin.com/in/manish-sharma-b86aa1195)  
+- **Email**: (mailto:manish.kota2000.com)
