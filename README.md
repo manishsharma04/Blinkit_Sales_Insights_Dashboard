@@ -51,10 +51,10 @@ The analysis demonstrates key **Power BI features** and advanced **data visualiz
 
 ## **Screenshots**
 *Include some high-quality screenshots of your dashboard here to visually demonstrate your work.*
-## **Screenshots**
+
 
 ### **Overall Dashboard**
-![Dashboard Overview](Screenshot/1(1).png "Dashboard Overview")
+![Dashboard Overview](Screenshot/1.png "Dashboard Overview")
 
 ### **Sales Trends Visualization**
 ![Sales Trends](Screenshot/2(1).png "Sales Trends Visualization")
